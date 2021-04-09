@@ -1,0 +1,223 @@
+gible,Fri Mar 12 2021 16:13:47 GMT-0600 (CST),NCD
+aron,Tue Mar 09 2021 21:52:27 GMT-0600 (CST),NCD
+roggenrola,Tue Mar 09 2021 14:31:28 GMT-0600 (CST),NCD
+krabby,Tue Mar 02 2021 18:36:42 GMT-0600 (CST),NCD
+nidoranf,Mon Feb 15 2021 12:27:11 GMT-0600 (CST),NCD
+murkrow,Sun Jan 31 2021 16:01:13 GMT-0600 (CST),NCD
+aipom,Tue Jan 26 2021 21:50:02 GMT-0600 (CST),NCD
+kyogre,Sun Jan 24 2021 17:40:02 GMT-0600 (CST),NCD
+mareep,Sun Jan 24 2021 15:59:52 GMT-0600 (CST),NCD
+claydol,Tue Jan 19 2021 14:33:58 GMT-0600 (CST),NCD
+swellow,Tue Jan 19 2021 14:13:11 GMT-0600 (CST),NCD
+snover,Mon Dec 28 2020 23:19:09 GMT-0600 (CST),NCD
+scizor,Wed Dec 16 2020 12:29:11 GMT-0600 (CST),NCD
+wooper,Fri Dec 11 2020 12:01:54 GMT-0600 (CST),NCD
+misdreavus,Mon Dec 07 2020 14:55:01 GMT-0600 (CST),NCD
+dewgong,Tue Dec 01 2020 18:34:51 GMT-0600 (CST),NCD
+seel,Tue Dec 01 2020 18:33:54 GMT-0600 (CST),NCD
+tauros,Sun Nov 29 2020 14:16:15 GMT-0600 (CST),NCD
+magmortar,Sat Nov 21 2020 13:11:30 GMT-0600 (CST),ComDay
+magmar,Sat Nov 21 2020 13:10:58 GMT-0600 (CST),ComDay
+electivire,Sun Nov 15 2020 16:21:38 GMT-0600 (CST),ComDay
+electabuzz,Sun Nov 15 2020 16:20:12 GMT-0600 (CST),ComDay
+drifloon,Sun Oct 25 2020 12:53:01 GMT-0500 (CDT),NCD
+whiscash,Fri Oct 23 2020 20:48:20 GMT-0500 (CDT),NCD
+weedle,Thu Oct 22 2020 23:10:05 GMT-0500 (CDT),NCD
+watchog,Thu Oct 22 2020 21:44:55 GMT-0500 (CDT),NCD
+banette,Tue Oct 20 2020 18:19:25 GMT-0500 (CDT),NCD
+charmander,Sat Oct 17 2020 14:59:10 GMT-0500 (CDT),ComDay
+charmander,Sat Oct 17 2020 13:36:04 GMT-0500 (CDT),ComDay
+giratina-origin,Wed Oct 14 2020 19:00:19 GMT-0500 (CDT),NCD
+zigzagoon,Mon Oct 12 2020 13:22:19 GMT-0500 (CDT),NCD
+hypno,Wed Sep 30 2020 14:10:10 GMT-500 (CDT),NCD
+porygonz,Sun Sep 20 2020 14:47:09 GMT-0500 (CDT),ComDay
+porygon2,Sun Sep 20 2020 14:46:39 GMT-0500 (CDT),ComDay
+porygon,Sun Sep 20 2020 14:46:20 GMT-0500 (CDT),ComDay
+raichua,Thu Sep 17 2020 13:03:52 GMT-0500 (CDT),NCD
+ledyba,Sun Sep 13 2020 18:37:47 GMT-0500 (CDT),NCD
+ludicolo,Sat Sep 05 2020 19:16:31 GMT-0500 (CDT),NCD
+lotad,Tue Sep 01 2020 21:20:59 GMT-0500 (CDT),NCD
+roggenrola,Sun Aug 16 2020 08:43:43 GMT-0500 (CDT),NCD
+baltoy,Thu Aug 13 2020 15:15:04 GMT-0500 (CDT),NCD
+staryu,Sun Aug 09 2020 19:10:14 GMT-0500 (CDT),NCD
+magikarp,Sat Aug 08 2020 15:35:16 GMT-0500 (CDT),ComDay
+magikarp,Sat Aug 08 2020 15:27:30 GMT-0500 (CDT),ComDay
+magikarp,Sat Aug 08 2020 13:23:48 GMT-0500 (CDT),ComDay
+gible,Fri Aug 07 2020 12:50:15 GMT-0500 (CDT),NCD
+horsea,Fri Aug 07 2020 12:49:33 GMT-0500 (CDT),NCD
+rayquaza,Wed Aug 05 2020 18:39:50 GMT-0500 (CDT),NCD
+illumise,Thu Apr 23 2020 01:05:34 GMT-0500 (CDT),NCD
+exeggutora,Tue Aug 04 2020 21:47:49 GMT-0500 (CDT),NCD
+dratini,Sun Aug 02 2020 16:42:53 GMT-0500 (CDT),NCD
+manectric,Sat Aug 01 2020 17:12:04 GMT-0500 (CDT),NCD
+electrike,Fri Jul 31 2020 17:08:18 GMT-0500 (CDT),NCD
+oddish,Mon Jul 20 2020 13:03:35 GMT-0500 (CDT),NCD
+gengar,Sun Jul 19 2020 12:59:18 GMT-0500 (CDT),ComDay
+haunter,Sun Jul 19 2020 12:45:37 GMT-0500 (CDT),ComDay
+gastly,Sun Jul 19 2020 12:41:28 GMT-0500 (CDT),ComDay
+skitty,Thu Jul 16 2020 17:50:11 GMT-0500 (CDT),NCD
+steelix,Tue Jul 07 2020 19:23:14 GMT-0500 (CDT),NCD
+teddiursa,Sat Jun 20 2020 23:14:51 GMT+0000 (UTC),NCD
+weedle,Sat Jun 20 2020 18:00:03 GMT+0000 (UTC),ComDay
+beedrill,Sat Jun 20 2020 17:59:33 GMT+0000 (UTC),ComDay
+patrat,Sun May 31 2020 23:27:16 GMT+0000 (UTC)
+cresselia,Wed May 27 2020 22:25:00 GMT+0000 (UTC)
+bronzor,Tue May 26 2020 22:25:00 GMT+0000 (UTC)
+bronzor,Tue May 26 2020 22:25:00 GMT+0000 (UTC)
+bronzor,Tue May 26 2020 22:25:00 GMT+0000 (UTC)
+bronzong,Tue May 26 2020 22:25:00 GMT+0000 (UTC)
+shiftry,Sun May 24 2020 17:07:59 GMT+0000 (UTC)
+seedot,Sun May 24 2020 17:07:24 GMT+0000 (UTC),ComDay
+nuzleaf,Sun May 24 2020 17:07:02 GMT+0000 (UTC),ComDay
+drifloon,Sat May 23 2020 04:59:20 GMT+0000 (UTC)
+sharpedo,Tue May 19 2020 22:27:32 GMT+0000 (UTC)
+swellow,Sun May 17 2020 17:58:08 GMT+0000 (UTC)
+dunsparce,Thu May 14 2020 17:15:21 GMT+0000 (UTC)
+hooh,Sat May 09 2020 23:47:41 GMT+0000 (UTC)
+drowzee,Mon May 04 2020 23:03:05 GMT+0000 (UTC)
+darkrai,Thu Apr 30 2020 15:37:44 GMT+0000 (UTC)
+kadabra,Sat Apr 25 2020 16:48:00 GMT+0000 (UTC),ComDay
+alakazam,Sat Apr 25 2020 16:47:47 GMT+0000 (UTC),ComDay
+abra,Sat Apr 25 2020 16:47:33 GMT+0000 (UTC),ComDay
+exeggcute,Sun Apr 12 2020 04:44:48 GMT+0000 (UTC)
+marill,Sat Apr 11 2020 23:25:31 GMT+0000 (UTC)
+koffing,Fri Apr 10 2020 16:36:20 GMT+0000 (UTC)
+ponyta,Thu Apr 09 2020 02:13:00 GMT+0000 (UTC)
+solrock,Sat Mar 28 2020 23:22:39 GMT+0000 (UTC)
+monferno,Wed Mar 25 2020 04:01:31 GMT+0000 (UTC)
+murkrow,Wed Mar 25 2020 03:58:25 GMT+0000 (UTC)
+swablu,Thu Mar 12 2020 01:09:06 GMT+0000 (UTC)
+Bulbasaur,2018-09-25
+Charmander,2018-05-19,ComDay
+Charmeleon,2018-05-19,ComDay
+Charizard,2019-05-19,ComDay
+Squirtle,2018-07-08,ComDay
+Wartortle,2018-07-08,ComDay
+Blastoise,2018-07-08,ComDay
+Pidgeot,2019-10-15
+RattataA,2019-12-12
+Raichu,2018-01-20
+Nidoranm,2019-07-06
+Diglett,2019-04-30
+Dugtrio,2019-04-30
+Psyduck,2019-05-10
+Golduck,2019-02-07
+Geodude,2018-09-26
+GeodudeA,2019-10-29
+Golem,2018-09-16
+Magnemite,2019-06-03
+Magneton,2019-06-03
+Onix,2019-12-09
+Marowak,2018-11-07
+Lickitung,2020-02-15
+Rhyhorn,2020-02-22,ComDay
+Pinsir,2018-11-03
+Tauros,2019-10-11
+Magikarp,2018-09-03
+Magikarp,2020-01-31
+Magikarp,2020-02-01
+Gyarados,2020-01-30
+Eevee,2019-07-18,ComDay
+Vaporeon,2018-08-11,ComDay
+Jolteon,2018-08-11,ComDay
+Flareon,2018-08-11,ComDay
+Kabutops,2018-06-04
+Zapdos,2019-02-25
+Dratini,2018-12-01,ComDay
+Dragonair,2018-02-24,ComDay
+Dragonite,2018-02-24,ComDay
+Chikorita,2018-09-22,ComDay
+Bayleef,2018-09-22,ComDay
+Meganium,2018-09-22,ComDay
+Cyndaquil,2018-11-10,ComDay
+Typhlosion,2018-11-10,ComDay
+Totodile,2019-01-12,ComDay
+Furret,2019-09-04
+Natu,2019-09-07
+Xatu,2019-09-21
+Mareep,2018-04-15,ComDay
+Flaaffy,2019-04-20,ComDay
+Ampharos,2018-04-15,ComDay
+Sunflora,2020-01-03
+Yanma,2020-02-28
+Murkrow,2019-01-13
+Espeon,2018-08-11,ComDay
+Umbreon,2018-08-12,ComDay
+Misdreavus,2019-04-18
+Gligar,2019-12-06
+Gligar,2019-12-06
+Steelix,2020-02-29
+Snubbull,2019-09-07
+Shuckle,2019-04-20
+Sneasel,2020-01-01
+Sneasel,2019-10-18
+Swinub,2019-12-25,ComDay
+Delibird,2019-12-28
+Delibird,2019-12-25
+Delibird,2019-12-28
+Skarmory,2020-01-19
+Houndoom,2019-01-04
+Kingdra,2019-08-23
+Larvitar,2018-06-16,ComDay
+Pupitar,2018-06-16,ComDay
+Tyranitar,2018-06-16,ComDay
+Treecko,2019-03-23,ComDay
+Grovyle,2019-03-23,ComDay
+Sceptile,2019-03-23,ComDay
+Torchic,2019-05-19,ComDay
+Zigzagoon,2019-01-19
+Linoone,2019-01-29
+Taillow,2019-04-26
+Wingull,2018-09-02
+Pelipper,2018-09-01
+Ralts,2019-08-03,ComDay
+Ralts,2019-12-14,ComDay
+Slakoth,2019-06-08,ComDay
+Vigoroth,2019-06-08,ComDay
+Makuhita,2019-02-27
+Aron,2019-03-18
+Aron,2019-10-09
+Aggron,2018-04-23
+Meditite,2019-01-12
+Plusle,2018-07-14
+Minun,2018-07-15
+Roselia,2018-06-30
+Carvanha,2019-08-29
+Spoink,2019-09-14
+Grumpig,2019-02-07
+Trapinch,2019-10-12,ComDay
+Flygon,2019-10-12,ComDay
+Swablu,2018-05-19
+Swablu,2019-05-22
+Barboach,2019-10-13
+Feebas,2019-01-19
+Castform,2019-03-30
+Shuppet,2019-10,18
+Luvdisc,2020-02-15
+Luvdisc,2020-02-15
+Bagon,2019-04-13,ComDay
+Salamence,2019-04-13,ComDay
+Beldum,2018-12-01,ComDay
+Metang,2018-10-21,ComDay
+Latios,2019-08-22
+Turtwig,2019-09-15,ComDay
+Torterra,2019-09-15,ComDay
+Chimchar,2020-02-18,ComDay
+Infernape,2019-11-16,ComDay
+Piplup,2020-01-19,ComDay
+Empoleon,2020-01-19,ComDay
+Roserade,2018-07-01
+Mothim,2019-12-06
+Drifloon,2019-10-26
+Drifloon,2019-10-27
+Drifblim,2018-10-23
+Mismagius,2019-03-07
+Honchkrow,2018-10-03
+Weavile,2019-12-24
+Leafeon,2018-08-11,ComDay
+Gliscor,2019-09-06
+Mamoswine,2019-02-16,ComDay
+Gallade,2019-08-03,ComDay
+Lillipup,2019-10-03
+Stoutland,2019-10-05
+Meltan,2019-05-04
