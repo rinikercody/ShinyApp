@@ -1032,14 +1032,14 @@ function handleRequest(req,res){
 			var visitDate = new Date();
 			
 			//I'm using the synchronus version since it shouldn't matter since this date is never read by the program
-			fs.appendFile('logs/updateLog.txt',"Someone visited the site on: " + visitDate + '\n', 'utf8', 
+			fs.appendFile('logs/updateLog.txt',"IP: " + req.connection.remoteAddress + " visited the site on: " + visitDate + '\n', 'utf8', 
 				function(err) {  
 					if (err){
 						throw err; 
 					}
 				//console.log("Someone visited site on: " + visitDate);
-				console.log("Site visited on: " + visitDate.toLocaleString());
-				console.log(req.connection.remoteAddress);
+				console.log("IP: " + req.connection.remoteAddress + " visited on: " + visitDate.toLocaleString());
+				//console.log(req.connection.remoteAddress);
 			}); 
 			res.end(html);
 		}
@@ -1077,6 +1077,7 @@ function handleRequest(req,res){
 	}
 	
 	if(req.method === 'POST'){
+		console.log("IP: " + req.connection.remoteAddress + " sent a POST request");
 		var body = '';
 		req.on('data', function(data){
 			body += data;
