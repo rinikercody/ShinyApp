@@ -1038,7 +1038,8 @@ function handleRequest(req,res){
 						throw err; 
 					}
 				//console.log("Someone visited site on: " + visitDate);
-				//console.log("Site visited on: " + visitDate.toLocaleString());
+				console.log("Site visited on: " + visitDate.toLocaleString());
+				console.log(req.connection.remoteAddress);
 			}); 
 			res.end(html);
 		}
